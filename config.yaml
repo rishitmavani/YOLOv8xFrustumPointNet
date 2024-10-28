@@ -1,0 +1,11 @@
+data_paths:
+  image_dir: 'E://BachelorThesis//KITTI_Dataset//{split}//image_2'
+  point_cloud_dir: 'E://BachelorThesis//KITTI_Dataset//{split}//velodyne'
+  calib_dir: 'E://BachelorThesis//KITTI_Dataset//{split}//calib'
+  label_dir: 'E://BachelorThesis//KITTI_Dataset//training//label_2'
+model_paths:
+  frustum_pointnet: 'frustum_pointnet_v6.pth'
+parameters:
+  confidence_threshold: 0.45
+  eps: 0.3
+  min_samples: 5

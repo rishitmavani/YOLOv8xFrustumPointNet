@@ -1,0 +1,37 @@
+{
+    "YOLO_TO_KITTI": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 1,
+        "4": 7,
+        "5": 7,
+        "6": 6,
+        "7": 4,
+        "8": 7
+    },
+    "CLS_TO_NAME": {
+        "0": "Pedestrian",
+        "1": "Cyclist",
+        "2": "Car",
+        "3": "Van",
+        "4": "Truck",
+        "5": "Tram",
+        "6": "Train",
+        "7": "Misc",
+        "8": "DontCare"
+    },
+    "Frustum_TO_NAME": {
+        "0": "Pedestrian",
+        "1": "Cyclist",
+        "2": "Car",
+        "3": "Van",
+        "4": "Truck",
+        "5": "Tram",
+        "6": "Train",
+        "7": "Car",
+        "8": "DontCare"
+    }
+
+
+}
