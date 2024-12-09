@@ -1,0 +1,16 @@
+matplotlib==3.9.3
+mayavi==4.8.2
+numpy==2.2.0
+open3d==0.18.0
+opencv_python==4.9.0.80
+Pillow==11.0.0
+PyYAML==6.0.1
+PyYAML==6.0.2
+scikit_learn==1.5.2
+scipy==1.14.1
+Shapely==2.0.6
+tensorflow==2.16.1
+tensorflow_intel==2.16.1
+torch==2.3.1
+torchvision==0.18.1
+ultralytics==8.2.46
